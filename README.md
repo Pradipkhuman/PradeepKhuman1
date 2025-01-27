@@ -1,96 +1,37 @@
-<div align="center">
-<img src="https://thumbs.gfycat.com/AccomplishedMeekFanworms-size_restricted.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Hi there, I'm Pradip Khuman 👋
 
-### <div align="center">I'm Pradeep Khuaman, A Student at Vishwakarma Government Engineering College '24 </div>  
-  
+![Profile views](https://gpvc.arturio.dev/Pradipkhuman)
 
+## About Me
+- 🔭 I’m currently working on [Your Project](https://github.com/your-repo)
+- 🌱 I’m currently learning [Your Learning Goal]
+- 👯 I’m looking to collaborate on [Your Collaboration Interest]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- ⚡ Fun fact: [A Fun Fact About You]
 
-  
+## Skills
+- 💻 Languages: [Programming Languages You Know]
+- 🛠️ Tools: [Tools You Use]
 
-- 🌱 I’m currently learning Flutter,Andoid  
-  
+## GitHub Stats
+![Pradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipkhuman&show_icons=true&theme=radical)
 
-- ❓ Ask me about anything related to Android  and related technologies  
-  
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipkhuman&layout=compact&theme=radical)
 
-<br/>  
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
+## Projects
+- [Project 1](https://github.com/your-repo-1): Short description of project 1
+- [Project 2](https://github.com/your-repo-2): Short description of project 2
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Blog Posts
+- [Blog Post 1](https://your-blog-link-1): Short description of blog post 1
+- [Blog Post 2](https://your-blog-link-2): Short description of blog post 2
 
-
-
-### Skills  
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### _______________________  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### _______________________  
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Pradipkhuman" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/PradeepKhuman" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Pradeep Khuman" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pradipkhuman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=dtoaup7yv5q05piboj15y0f19&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
+## Support
+If you like my work, consider buying me a coffee!
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-profile)
